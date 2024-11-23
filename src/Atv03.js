@@ -18,7 +18,7 @@ function Atv03() {
       />
       <Galeria />
       <StatusMessage isOnline={true} />
-      <Lista items={['Componente lista', 'Professora: Carol', 'Fatec Prudente']} />
+      <Lista items={['Componente lista', 'Professora: Ana Carolina', 'Fatec Prudente']} />
       <DoubleValue value={5} />
       <Link to="/" className="voltar-link">Voltar</Link>
     </div>

@@ -4,9 +4,9 @@ import '../Atv03.css';
 
 function Galeria() {
   const users = [
-    { name: 'Alice', imageUrl: 'https://cdn.icon-icons.com/icons2/2643/PNG/512/female_woman_people_person_avatar_black_tone_icon_159371.png' },
-    { name: 'Carol', imageUrl: 'https://cdn-icons-png.flaticon.com/512/147/147135.png' },
-    { name: 'Márcio', imageUrl: 'https://cdn-icons-png.flaticon.com/512/4975/4975733.png' }
+    { name: 'Sara', imageUrl: 'https://cdn.icon-icons.com/icons2/2643/PNG/512/female_woman_people_person_avatar_black_tone_icon_159371.png' },
+    { name: 'Amanda', imageUrl: 'https://cdn-icons-png.flaticon.com/512/147/147135.png' },
+    { name: 'Lucas', imageUrl: 'https://cdn-icons-png.flaticon.com/512/4975/4975733.png' }
   ];
 
   return (
